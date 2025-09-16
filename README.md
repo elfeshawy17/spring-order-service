@@ -174,8 +174,8 @@ cd ecommerce-api
 
 ```bash
 # 2. Configure .env
-DB_URL=jdbc:postgresql://localhost:5432/ecom
-DB_USERNAME=postgres
+DB_URL=jdbc:your-database-url
+DB_USERNAME=your-username
 DB_PASSWORD=your_password
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
